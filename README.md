@@ -1,7 +1,7 @@
 <html>
 <head>
     
-    <link rel="stylesheet"href="style.css"/>
+   
 
     <meta>My first HTML page </meta>
 
